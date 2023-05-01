@@ -5,7 +5,7 @@
 
 
 - local chrome extension: [brave://extensions](brave://extensions)
-- local firefox addon testing: https://about:debugging#/runtime/this-firefox
+- local firefox addon testing: [about:debugging#/runtime/this-firefox]
 
 
 -  online painbrush - https://jspaint.app/
