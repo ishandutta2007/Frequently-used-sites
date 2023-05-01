@@ -4,13 +4,19 @@
 - mozilla/devconsole https://addons.mozilla.org/en-US/developers/addons
 
 
-- local chrome extension: [brave://extensions](brave://extensions)
-- local firefox addon testing: [about:debugging#/runtime/this-firefox](about:debugging#/runtime/this-firefox)
+- local chrome extension:
+
+[brave://extensions](brave://extensions)
+
+- local firefox addon testing: 
+
+[about:debugging#/runtime/this-firefox](about:debugging#/runtime/this-firefox)
 
 
 -  online painbrush - https://jspaint.app/
 - resize image - https://www.iloveimg.com/resize-image
 - crop image - https://www.iloveimg.com/resize-image
 
-CHAT -  https://huggingface.co/chat
-CHAT -  https://poe.com/ChatGPT
+
+- CHAT -  https://huggingface.co/chat
+- CHAT -  https://poe.com/ChatGPT
