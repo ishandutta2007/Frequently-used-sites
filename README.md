@@ -4,7 +4,7 @@
 - mozilla/devconsole https://addons.mozilla.org/en-US/developers/addons
 
 
-- local chrome extension: brave://extensions/
+- local chrome extension: http://brave://extensions/
 - local firefox addon testing: https://about:debugging#/runtime/this-firefox
 
 
