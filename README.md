@@ -21,6 +21,6 @@ edge://extensions/
 - resize image - https://www.iloveimg.com/resize-image
 - crop image - https://www.iloveimg.com/resize-image
 
-
+- CHAT -  https://open-assistant.io/chat
 - CHAT -  https://huggingface.co/chat
 - CHAT -  https://poe.com/ChatGPT
