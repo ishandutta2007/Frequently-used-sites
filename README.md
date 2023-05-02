@@ -2,6 +2,7 @@
 
 - webstore/devconsole https://chrome.google.com/webstore/devconsole/
 - mozilla/devconsole https://addons.mozilla.org/en-US/developers/addons
+- edge devconsole https://partner.microsoft.com/en-us/dashboard/microsoftedge/overview
 
 
 - local chrome extension:
