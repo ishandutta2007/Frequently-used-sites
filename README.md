@@ -13,6 +13,9 @@
 
 [about:debugging#/runtime/this-firefox](about:debugging#/runtime/this-firefox)
 
+- local edge extension: 
+
+edge://extensions/
 
 -  online painbrush - https://jspaint.app/
 - resize image - https://www.iloveimg.com/resize-image
