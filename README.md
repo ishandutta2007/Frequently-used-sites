@@ -22,10 +22,14 @@ edge://extensions/
 - resize image - https://www.iloveimg.com/resize-image
 - crop image - https://www.iloveimg.com/resize-image
 
+- CHAT - https://platform.openai.com/playground
 - CHAT -  https://open-assistant.io/chat
 - CHAT -  https://huggingface.co/chat
 - CHAT -  https://poe.com/ChatGPT
 - CHAT - https://studio.ai21.com/overview
+- CHAT - https://beta.elevenlabs.io/speech-synthesis
+- IMAGE - https://playgroundai.com/create
+- ImageRestoration - https://arc.tencent.com/en/ai-demos/faceRestoration
 
 - stripe - https://connect.stripe.com/app/express#taxes
 
