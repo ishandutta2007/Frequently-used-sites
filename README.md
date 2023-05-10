@@ -25,6 +25,7 @@ edge://extensions/
 - CHAT -  https://open-assistant.io/chat
 - CHAT -  https://huggingface.co/chat
 - CHAT -  https://poe.com/ChatGPT
+- CHAT - https://studio.ai21.com/overview
 
 - stripe - https://connect.stripe.com/app/express#taxes
 
