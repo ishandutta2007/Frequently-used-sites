@@ -42,4 +42,5 @@ edge://extensions/
 
 - aitestkitchen google - https://aitestkitchen.withgoogle.com/experiments/
 - askyourpdf - https://askyourpdf.com/
+- WHITEBOARD collab - https://miro.com/app/board/uXjVMOQig48=/
 
