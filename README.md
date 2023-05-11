@@ -33,6 +33,7 @@ edge://extensions/
 - IMAGE - https://playgroundai.com/create
 - IMAGE - https://magicstudio.com/canvas
 - LOGO - https://app.brandmark.io/v3/
+- IMAGE To IMAGE - https://photoai.com/ (no freemium)
 - ImageRestoration - https://arc.tencent.com/en/ai-demos/faceRestoration
 
 - VIDEO to Text - https://otter.ai/welcome/connect_zoom?onboarding=general_third_party&third_party=google
