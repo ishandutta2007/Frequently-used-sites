@@ -28,6 +28,8 @@ edge://extensions/
 - CHAT -  https://poe.com/ChatGPT
 - CHAT - https://studio.ai21.com/overview
 - CHAT - https://beta.elevenlabs.io/speech-synthesis
+- CHAT - https://chat.forefront.ai/
+
 - IMAGE - https://playgroundai.com/create
 - ImageRestoration - https://arc.tencent.com/en/ai-demos/faceRestoration
 
@@ -35,4 +37,4 @@ edge://extensions/
 
 - aitestkitchen google - https://aitestkitchen.withgoogle.com/experiments/
 - askyourpdf - https://askyourpdf.com/
-- 
+
