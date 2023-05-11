@@ -32,6 +32,7 @@ edge://extensions/
 
 - IMAGE - https://playgroundai.com/create
 - IMAGE - https://magicstudio.com/canvas
+- TEXT to IMAGE - https://beta.dreamstudio.ai/generate
 - LOGO - https://app.brandmark.io/v3/
 - IMAGE To IMAGE - https://photoai.com/ (no freemium)
 - ImageRestoration - https://arc.tencent.com/en/ai-demos/faceRestoration
