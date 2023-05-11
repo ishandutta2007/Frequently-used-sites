@@ -35,6 +35,8 @@ edge://extensions/
 - LOGO - https://app.brandmark.io/v3/
 - ImageRestoration - https://arc.tencent.com/en/ai-demos/faceRestoration
 
+- VIDEO to Text - https://otter.ai/welcome/connect_zoom?onboarding=general_third_party&third_party=google
+
 - stripe - https://connect.stripe.com/app/express#taxes
 
 - aitestkitchen google - https://aitestkitchen.withgoogle.com/experiments/
