@@ -33,3 +33,4 @@ edge://extensions/
 
 - stripe - https://connect.stripe.com/app/express#taxes
 
+- aitestkitchen google = https://aitestkitchen.withgoogle.com/experiments/
