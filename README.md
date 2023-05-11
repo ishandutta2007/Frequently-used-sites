@@ -31,6 +31,8 @@ edge://extensions/
 - CHAT - https://chat.forefront.ai/
 
 - IMAGE - https://playgroundai.com/create
+- IMAGE - https://magicstudio.com/canvas
+- LOGO - https://app.brandmark.io/v3/
 - ImageRestoration - https://arc.tencent.com/en/ai-demos/faceRestoration
 
 - stripe - https://connect.stripe.com/app/express#taxes
