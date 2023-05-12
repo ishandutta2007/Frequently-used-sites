@@ -66,6 +66,8 @@ edge://extensions/
 - LONG VIDEO to REELS - Get Munch → https://www.getmunch.com/
 - LONG VIDEO to REELS - Vidyo.ai → https://vidyo.ai/
 
+- VIDEO to Captions - Captions → https://www.captions.ai/
+- VIDEO to Captions - Wisecut → https://www.wisecut.video/
 
 - 04. Adobe Podcast → https://podcast.adobe.com/enhance
 - 05. cleanvoice.ai → https://cleanvoice.ai/
@@ -73,8 +75,8 @@ edge://extensions/
 - 07. Re-Mix your Music → (Inbuild tool in Adobe Premiere)
 - 08. Notion AI → https://www.notion.so/
 - 12. beatoven.ai → https://www.beatoven.ai/
-- 15. Captions → https://www.captions.ai/
-- 16. Wisecut → https://www.wisecut.video/
+
+- 
 - 17. Megaphone → https://megaphone.spotify.com/
 - 19. Pictory.ai → https://pictory.ai/
 - 21. Animate From Audio → https://express.adobe.com/express-app...
