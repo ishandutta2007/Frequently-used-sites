@@ -20,9 +20,7 @@ edge://extensions/
 - online painbrush - https://jspaint.app/
 - resize image - https://www.iloveimg.com/resize-image
 - crop image - https://www.iloveimg.com/resize-image
-
 - stripe - https://connect.stripe.com/app/express#taxes
-
 
 ### AI TOOLS:
 
@@ -35,12 +33,12 @@ edge://extensions/
 - CHAT - https://studio.ai21.com/overview
 - CHAT - https://beta.elevenlabs.io/speech-synthesis
 - CHAT - https://chat.forefront.ai/
-- 
+
 - TEXT to IMAGE - https://playgroundai.com/create
 - TEXT to IMAGE - https://beta.dreamstudio.ai/generate
 - TEXT to IMAGE → https://www.midjourney.com/
 - TEXT to IMAGE - Firefly
-- 
+
 - IMAGE to generated IMAGE - https://magicstudio.com/canvas
 - IMAGE to generated IMAGE - Lensa → https://prisma-ai.com/lensa
 
@@ -54,7 +52,7 @@ edge://extensions/
 
 - VIDEO to Text - https://otter.ai/welcome/connect_zoom?onboarding=general_third_party&third_party=google
 - VIDEO to Text - YouTube Summary Video ChatGPT→ https://chrome.google.com/webstore/de...
--  
+
 - GOOLGE - aitestkitchen google - https://aitestkitchen.withgoogle.com/experiments/
 - PDF to GPT - askyourpdf - https://askyourpdf.com/
 - WHITEBOARD collab - https://miro.com/app/board/uXjVMOQig48=/
@@ -75,6 +73,9 @@ edge://extensions/
 
 - DISTRIBUTE PODCAST - Megaphone → https://megaphone.spotify.com/
 
+- AI SQL - https://blazingsql.com/
+- AI MARKETPLACE - Futurepedia.io →  https://www.futurepedia.io/
+
 - 04. Adobe Podcast → https://podcast.adobe.com/enhance
 - 05. cleanvoice.ai → https://cleanvoice.ai/
 - 06. Premiere Scene Detection → (Inbuild tool in Adobe Premiere)
@@ -84,4 +85,5 @@ edge://extensions/
 - 21. Animate From Audio → https://express.adobe.com/express-app...
 - 22. soundraw.io → https://soundraw.io/
 
-- AI MARKETPLACE - Futurepedia.io →  https://www.futurepedia.io/
+
+
