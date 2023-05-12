@@ -47,10 +47,8 @@ edge://extensions/
 - TEXT to generated LOGO - https://app.brandmark.io/v3/
 - TEXT to generated LOGO - looka.com → https://looka.com/
 
-
 - TEXT to audio - https://beta.elevenlabs.io/speech-synthesis
 - TEXT to voice clone - https://beta.elevenlabs.io/voice-lab
-
 
 - IMAGE To IMAGE - https://photoai.com/ (no freemium)
 
@@ -62,7 +60,6 @@ edge://extensions/
 - WHITEBOARD collab - https://miro.com/app/board/uXjVMOQig48=/
 - similar to weights and boas -  https://clear.ml/pricing/
 - Copywriting - Copy AI → https://www.copy.ai/
-
 
 - IMAGE To fixed IMAGE - ImageRestoration - https://arc.tencent.com/en/ai-demos/faceRestoration
 - IMAGE To Clean IMAGE - Cleanup. pictures → https://cleanup.pictures/
@@ -80,14 +77,11 @@ edge://extensions/
 
 - 04. Adobe Podcast → https://podcast.adobe.com/enhance
 - 05. cleanvoice.ai → https://cleanvoice.ai/
-
-
 - 06. Premiere Scene Detection → (Inbuild tool in Adobe Premiere)
 - 07. Re-Mix your Music → (Inbuild tool in Adobe Premiere)
 - 08. Notion AI → https://www.notion.so/
 - 12. beatoven.ai → https://www.beatoven.ai/
-
-- 
 - 21. Animate From Audio → https://express.adobe.com/express-app...
 - 22. soundraw.io → https://soundraw.io/
-- 24. Futurepedia.io →  https://www.futurepedia.io/
+
+- AI MARKETPLACE - Futurepedia.io →  https://www.futurepedia.io/
