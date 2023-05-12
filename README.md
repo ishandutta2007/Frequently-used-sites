@@ -43,7 +43,13 @@ edge://extensions/
 - 
 - IMAGE to generated IMAGE - https://magicstudio.com/canvas
 - IMAGE to generated IMAGE - Lensa → https://prisma-ai.com/lensa
+
 - TEXT to generated LOGO - https://app.brandmark.io/v3/
+- TEXT to generated LOGO - looka.com → https://looka.com/
+
+
+- TEXT to audio - https://beta.elevenlabs.io/speech-synthesis
+- TEXT to voice clone - https://beta.elevenlabs.io/voice-lab
 
 
 - IMAGE To IMAGE - https://photoai.com/ (no freemium)
@@ -74,6 +80,8 @@ edge://extensions/
 
 - 04. Adobe Podcast → https://podcast.adobe.com/enhance
 - 05. cleanvoice.ai → https://cleanvoice.ai/
+
+
 - 06. Premiere Scene Detection → (Inbuild tool in Adobe Premiere)
 - 07. Re-Mix your Music → (Inbuild tool in Adobe Premiere)
 - 08. Notion AI → https://www.notion.so/
@@ -82,5 +90,4 @@ edge://extensions/
 - 
 - 21. Animate From Audio → https://express.adobe.com/express-app...
 - 22. soundraw.io → https://soundraw.io/
-- 23. looka.com → https://looka.com/
 - 24. Futurepedia.io →  https://www.futurepedia.io/
