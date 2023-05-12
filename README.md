@@ -69,6 +69,8 @@ edge://extensions/
 - VIDEO to Captions - Captions → https://www.captions.ai/
 - VIDEO to Captions - Wisecut → https://www.wisecut.video/
 
+- DISTRIBUTE PODCAST - Megaphone → https://megaphone.spotify.com/
+
 - 04. Adobe Podcast → https://podcast.adobe.com/enhance
 - 05. cleanvoice.ai → https://cleanvoice.ai/
 - 06. Premiere Scene Detection → (Inbuild tool in Adobe Premiere)
@@ -77,7 +79,6 @@ edge://extensions/
 - 12. beatoven.ai → https://www.beatoven.ai/
 
 - 
-- 17. Megaphone → https://megaphone.spotify.com/
 - 19. Pictory.ai → https://pictory.ai/
 - 21. Animate From Audio → https://express.adobe.com/express-app...
 - 22. soundraw.io → https://soundraw.io/
