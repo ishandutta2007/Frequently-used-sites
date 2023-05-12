@@ -38,7 +38,7 @@ edge://extensions/
 - 
 - TEXT to IMAGE - https://playgroundai.com/create
 - TEXT to IMAGE - https://beta.dreamstudio.ai/generate
-- TEXT to IMAGE - MidJourney → https://www.midjourney.com/
+- TEXT to IMAGE → https://www.midjourney.com/
 - TEXT to IMAGE - Firefly
 - 
 - IMAGE to generated IMAGE - https://magicstudio.com/canvas
@@ -62,7 +62,8 @@ edge://extensions/
 - IMAGE To Clean IMAGE - Cleanup. pictures → https://cleanup.pictures/
 
 - TEXT to VIDEO - synthesia.io → https://www.synthesia.io/
-
+- TEXT to VIDEO - Pictory.ai → https://pictory.ai/
+- 
 - LONG VIDEO to REELS - Get Munch → https://www.getmunch.com/
 - LONG VIDEO to REELS - Vidyo.ai → https://vidyo.ai/
 
@@ -79,7 +80,6 @@ edge://extensions/
 - 12. beatoven.ai → https://www.beatoven.ai/
 
 - 
-- 19. Pictory.ai → https://pictory.ai/
 - 21. Animate From Audio → https://express.adobe.com/express-app...
 - 22. soundraw.io → https://soundraw.io/
 - 23. looka.com → https://looka.com/
