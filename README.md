@@ -26,6 +26,8 @@ edge://extensions/
 
 ### AI TOOLS:
 
+- CHAT - https://chat.openai.com/
+- CHAT - https://bard.google.com/
 - CHAT - https://platform.openai.com/playground
 - CHAT -  https://open-assistant.io/chat
 - CHAT -  https://huggingface.co/chat
@@ -33,6 +35,7 @@ edge://extensions/
 - CHAT - https://studio.ai21.com/overview
 - CHAT - https://beta.elevenlabs.io/speech-synthesis
 - CHAT - https://chat.forefront.ai/
+- 
 - TEXT to IMAGE - https://playgroundai.com/create
 - IMAGE - https://magicstudio.com/canvas
 - TEXT to IMAGE - https://beta.dreamstudio.ai/generate
