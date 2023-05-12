@@ -49,7 +49,8 @@ edge://extensions/
 - TEXT to audio - https://beta.elevenlabs.io/speech-synthesis
 - TEXT to voice clone - https://beta.elevenlabs.io/voice-lab
 
-- IMAGE To IMAGE - https://photoai.com/ (no freemium)
+- TEXT/IMAGE To IMAGE(humans) - https://photoai.com/ (no freemium)
+- TEXT/IMAGE To IMAGE(interiors) - https://interiorai.com/ (no freemium)
 
 - VIDEO to Text - https://otter.ai/welcome/connect_zoom?onboarding=general_third_party&third_party=google
 - VIDEO to Text - YouTube Summary Video ChatGPT→ https://chrome.google.com/webstore/de...
