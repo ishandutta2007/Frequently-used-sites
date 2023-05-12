@@ -18,6 +18,7 @@
 edge://extensions/
 
 - online painbrush - https://jspaint.app/
+- remove background image - https://www.remove.bg/
 - resize image - https://www.iloveimg.com/resize-image
 - crop image - https://www.iloveimg.com/resize-image
 - stripe - https://connect.stripe.com/app/express#taxes
