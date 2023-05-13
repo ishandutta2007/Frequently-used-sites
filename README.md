@@ -21,6 +21,7 @@ edge://extensions/
 - remove background image - https://www.remove.bg/
 - resize image - https://www.iloveimg.com/resize-image
 - crop image - https://www.iloveimg.com/resize-image
+- overlay - https://overlay.imageonline.co/
 - stripe - https://connect.stripe.com/app/express#taxes
 
 ### AI TOOLS:
