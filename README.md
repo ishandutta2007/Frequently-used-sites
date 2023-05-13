@@ -20,6 +20,7 @@ edge://extensions/
 - online painbrush - https://jspaint.app/
 - remove background image - https://www.remove.bg/
 - resize image - https://www.iloveimg.com/resize-image
+- auto resize_image - https://github.com/ishandutta2007/resize_image
 - crop image - https://www.iloveimg.com/resize-image
 - overlay - https://overlay.imageonline.co/
 - stripe - https://connect.stripe.com/app/express#taxes
