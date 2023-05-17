@@ -22,6 +22,7 @@ APIs
 edge://extensions/
 
 - online painbrush - https://jspaint.app/
+- create canvas https://www.fotor.com/
 - remove background image - https://www.remove.bg https://bgrem.ai/
 - resize image - https://www.iloveimg.com/resize-image
 - auto resize_image - https://github.com/ishandutta2007/resize_image
