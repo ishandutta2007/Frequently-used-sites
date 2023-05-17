@@ -22,7 +22,7 @@ APIs
 edge://extensions/
 
 - online painbrush - https://jspaint.app/
-- remove background image - https://www.remove.bg/
+- remove background image - https://www.remove.bg https://bgrem.ai/
 - resize image - https://www.iloveimg.com/resize-image
 - auto resize_image - https://github.com/ishandutta2007/resize_image
 - concatinate images(horizontally/vertically) - https://github.com/ishandutta2007/join_images_py
