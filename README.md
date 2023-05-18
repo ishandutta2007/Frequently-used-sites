@@ -6,10 +6,10 @@
 - https://analytics.google.com/analytics/web/#/p374348010/reports/explorer?params=_u..nav%3Dmaui%26_r.explorerCard..seldim%3D%5B%22firstUserSource%22%5D&r=lifecycle-user-acquisition-v2&ruid=lifecycle-user-acquisition-v2,life-cycle,acquisition&collectionId=life-cycle
 
 
-wordai.com
-lumen5.com
-hunter.io
-volleyapp.co
+- wordai.com
+- lumen5.com
+- hunter.io
+- volleyapp.co
 
 
 APIs
