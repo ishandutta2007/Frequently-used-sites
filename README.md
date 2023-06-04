@@ -1,4 +1,6 @@
 # Frequently-used-sites
+- gpte.ai
+- https://www.perplexity.ai/
 
 - webstore/devconsole https://chrome.google.com/webstore/devconsole/
 - mozilla/devconsole https://addons.mozilla.org/en-US/developers/addons
