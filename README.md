@@ -1,5 +1,5 @@
 # Frequently-used-sites
-- gpte.ai
+- [gpte](https://gpte.ai)
 - https://www.perplexity.ai/
 
 - webstore/devconsole https://chrome.google.com/webstore/devconsole/
