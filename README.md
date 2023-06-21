@@ -30,6 +30,7 @@ APIs
 
 edge://extensions/
 
+- free svg https://www.vecteezy.com/editor/random
 - online painbrush - https://jspaint.app/
 - create canvas https://www.fotor.com/
 - remove background image - https://www.remove.bg https://bgrem.ai/
